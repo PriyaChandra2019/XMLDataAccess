@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Restaurants>
+  <RestaurantName>
+    <Restaurant>
+      <CuisineType>Indian</CuisineType>
+      <City>Lacey</City>
+      <Rating>8</Rating>
+      <Contact>Priya</Contact>
+    </Restaurant>
+  </RestaurantName>
+  <RestaurantName>
+    <Restaurant>
+      <CuisineType>Chinese</CuisineType>
+      <City>Olympia</City>
+      <Rating>8</Rating>
+      <Contact>Chu</Contact>
+    </Restaurant>
+  </RestaurantName>
+  <RestaurantName>
+    <Restaurant>
+      <CuisineType>Italian</CuisineType>
+      <City>Tumwater</City>
+      <Rating>8</Rating>
+      <Contact>John</Contact>
+    </Restaurant>
+  </RestaurantName>
+  <RestaurantName>
+    <Restaurant>
+      <CuisineType>Mexican</CuisineType>
+      <City>Lacey</City>
+      <Rating>8</Rating>
+      <Contact>Mike</Contact>
+    </Restaurant>
+  </RestaurantName>
+  <RestaurantName>
+    <Restaurant>
+      <CuisineType>American</CuisineType>
+      <City>Lacey</City>
+      <Rating>8</Rating>
+      <Contact>Mathew</Contact>
+    </Restaurant>
+  </RestaurantName>
+</Restaurants>
